@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to Hoi's GitHub Profile!
 
-<!--
-**willishoikinchan/willishoikinchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate software developer with a love for open source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages: Python
+- Web Development: HTML
+- Version Control: Git
+
+## Projects
+
+### Task Management System
+
+Description: A simple task management system implemented in Python.
+
+[[Link to Project](https://github.com/willishoikinchan/finalCapstone.git)
+
+
+## Contact Me
+
+Feel free to reach out to me via email at chan_willis@ymail.com
+
+---
+*Thank you for visiting!*
