@@ -6,8 +6,9 @@ I'm a passionate software developer with a love for open source projects.
 
 ## Skills
 
-- Programming Languages: Python
+- Programming Languages: Python, MySQL
 - Web Development: HTML
+- Office: Excel
 - Version Control: Git
 
 ## Projects
