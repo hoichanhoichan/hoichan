@@ -12,7 +12,7 @@ I'm a dedicated data analyst specializing in risk management and passionate abou
 
 ## Contact Me
 
-Feel free to reach out to me via email at chan_willis@ymail.com
+Feel free to reach out to me via email at hoichan0615@gmail.com
 
 ---
 *Thank you for visiting!*
