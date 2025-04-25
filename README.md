@@ -1,8 +1,7 @@
 # Welcome to Hoi's GitHub Profile!
 
 ## About Me
-
-I'm a passionate software developer with a love for open source projects.
+I'm a dedicated data analyst specializing in risk management and passionate about open source projects.
 
 ## Skills
 
@@ -10,15 +9,6 @@ I'm a passionate software developer with a love for open source projects.
 - Web Development: HTML
 - Office: Excel
 - Version Control: Git
-
-## Projects
-
-### Task Management System
-
-Description: A simple task management system implemented in Python.
-
-[[Link to Project](https://github.com/willishoikinchan/finalCapstone.git)
-
 
 ## Contact Me
 
